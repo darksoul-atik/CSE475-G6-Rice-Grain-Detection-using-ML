@@ -1,4 +1,4 @@
-This project will upadted weekly. 
+This project will updated weekly. 
 
 First Edition:
 We used a sample RAW dataset with custom CNN , but the accuracy was not satisfactory due to limited amount of Data.
